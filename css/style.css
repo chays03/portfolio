@@ -186,7 +186,7 @@ header nav ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
-  background-image: url(images/seattle-trees.jpg);
+  background-image: url(../images/seattle-trees.jpg);
   background-size: cover;
   justify-content: center;
   background-attachment: fixed;
@@ -236,7 +236,7 @@ div .tagline {
 }
 
 .photo-column {
-  background-image: url(images/codyhays.jpg);
+  background-image: url(../images/codyhays.jpg);
   text-align: center;
   background-size: cover;
   justify-content: center;
@@ -272,7 +272,7 @@ div .tagline {
   text-align: center;
   background-size: cover;
   justify-content: center;
-  background-image: url(images/computer-1.jpg);
+  background-image: url(../images/computer-1.jpg);
 }
 
 .item-1 {
@@ -283,21 +283,21 @@ div .tagline {
 
 
 .item-2 {
-  background-image: url(images/computer-2.jpg);
+  background-image: url(../images/computer-2.jpg);
   text-align: center;
   background-size: cover;
   justify-content: center;
 }
 
 .item-3 {
-  background-image: url(images/computer-3.jpg);
+  background-image: url(../images/computer-3.jpg);
   text-align: center;
   background-size: cover;
   justify-content: center;
 }
 
 .item-4 {
-  background-image: url(images/computer-4.jpg);
+  background-image: url(../images/computer-4.jpg);
   text-align: center;
   background-size: cover;
   justify-content: center;
@@ -305,7 +305,7 @@ div .tagline {
 
 /* contact */
 .photo-column-2 {
-  background-image: url(images/woods.jpg);
+  background-image: url(../images/woods.jpg);
   text-align: center;
   background-size: cover;
   justify-content: center;
